@@ -192,6 +192,7 @@ button:hover{
     form > div {
         display: block;
         margin: 10px;
+        height: 100%;
     }
 
     .form-name{
