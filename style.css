@@ -178,19 +178,20 @@ button:hover{
     .title-text{
         margin: 0;
         padding: 8px;
-        height: 30%;
+        height: 40%;
         border-radius: 0;
     }
     
     .form-plate{
         margin: 0;
         padding: 0px;
-        height: 70%;
+        height: 60%;
         border-radius: 0;
     }
 
     form > div {
         display: block;
+        margin: 10px;
     }
 
     .form-name{
@@ -213,6 +214,12 @@ button:hover{
 
     input {
         height: 25px;
+    }
+
+    h5{
+        font-weight: 300;
+        margin-bottom: 0px;
+        font-style: italic;
     }
 
     
